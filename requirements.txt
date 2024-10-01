@@ -1,0 +1,6 @@
+AIDIN-beta/
+├── app.py
+├── requirements.txt
+├── templates/
+│   ├── index.html
+│   └── result.html
