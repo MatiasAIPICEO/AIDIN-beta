@@ -1,6 +1,3 @@
-AIDIN-beta/
-├── app.py
-├── requirements.txt
-├── templates/
-│   ├── index.html
-│   └── result.html
+Flask==2.3.2
+transformers==4.30.0
+python-docx==0.8.11
